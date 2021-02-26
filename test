@@ -1,1 +1,3 @@
 git config --local -l
+git config --global user.email "bumbeehongkai@gmail.com"
+git config --global user.name "Hong kai"
